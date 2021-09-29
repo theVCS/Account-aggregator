@@ -8,3 +8,5 @@
 >
 > - ``python manage.py runserver``
 >
+Application is in Development purpose
+We are out of ideas
